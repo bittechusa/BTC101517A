@@ -6,7 +6,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 
-@CucumberOptions(features= {"/Users/bittechconsulting/eclipse-workspace/BddProject_btc101517/param.feature"},dryRun=true
+@CucumberOptions(features= {"/Users/bittechconsulting/eclipse-workspace/BddProject_btc101517/param.feature"},dryRun=true,glue="com"
 )
 
 public class Runner {
