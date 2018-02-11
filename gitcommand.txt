@@ -6,5 +6,5 @@ touch---to create file
 vi----text editor
 nano---text editor only for mac
 cat---to see what file contains
-
+cd ..----goback one step
 
